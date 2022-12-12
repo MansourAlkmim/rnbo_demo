@@ -1,0 +1,18 @@
+[
+  {
+    "id": "buf4",
+    "file": "media\\p_gearbox.wav"
+  },
+  {
+    "id": "buf3",
+    "file": "media\\p_engine.wav"
+  },
+  {
+    "id": "buf2",
+    "file": "media\\p_clutch.wav"
+  },
+  {
+    "id": "buf1",
+    "file": "media\\p_ats.wav"
+  }
+]
